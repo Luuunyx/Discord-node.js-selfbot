@@ -21,4 +21,5 @@ for /f "tokens=*" %%i in (modules.txt) do (
 )
 
 echo All installations complete.
+npm run index.js
 pause

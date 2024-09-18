@@ -1,7 +1,9 @@
 So i present my 1st project, it's a fully node.js made script 
 
-if the config.json you have to put your token then you're good
-if you want to get your token but you dont know how are some screen 
+in the config.json you have to put your token then you're good
+
+
+if you want to get your token but you dont know how here are some screen 
 click f12 ![{75710FD5-54C1-4B6D-85E4-0804917FDE75}](https://github.com/user-attachments/assets/ae497de7-d9d7-4764-bf11-f171be230df4)
 then go here ![{40A892C1-8750-4FF0-9BC0-631EA087D2E9}](https://github.com/user-attachments/assets/93ce3b5d-8c68-482e-a831-361fe94e0679)
 Click on application then on the filter box

@@ -59,7 +59,7 @@ fs.readdir(commandsDir, (err, files) => {
 
 // Client ready event
 client.on('ready', () => {
-    console.log("Get ready to try out Lunyx's daily task helper VIP version. Type >_< in any channel.");
+    console.log("Get ready to try out Lunyx's daily task helper 1.0 version. Type > in any channel.");
     console.log("If you encounter any issues, contact me on Discord at 528a.");
 });
 
@@ -86,7 +86,7 @@ client.on('messageCreate', async (message) => {
             await message.channel.send('An error occurred.');
         }
     } else {
-        await message.channel.send('Unknown command. Please type `>_<help` to see the list of commands.');
+        await message.channel.send('Unknown command. Please type `>help` to see the list of commands.');
     }
 });
 
